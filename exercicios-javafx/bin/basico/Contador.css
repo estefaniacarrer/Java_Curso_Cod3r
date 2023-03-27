@@ -1,0 +1,31 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: Oswald;
+	-fx-text-fill: #ffffff;
+}
+.titulo{
+	-fx-text-fill: #ffff00;
+	-fx-font-size: 36px;
+}
+
+.numero{
+	-fx-text-fill: #eee;
+	-fx-font-size: 28px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-font-size: 24px;
+	-fx-text-fill: #008000;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde{
+	-fx-text-fill: #00ff00;	
+}
+
+.vermelho{
+	-fx-text-fill: #ff0000;
+}
